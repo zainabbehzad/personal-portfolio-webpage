@@ -54,6 +54,11 @@ span {
   font-size: 20px;
 }
 
+.profile-link a:hover {
+  transform: scale(1.3);
+  transition: .0;
+}
+
 #navbar ul li a {
   color: white;
   text-decoration: none;
@@ -63,7 +68,7 @@ span {
 
 #navbar ul li a:hover {
   color: #f90040;
-  transition: .0s;
+  transition: .0;
 }
 
 #profile-link {
@@ -74,7 +79,7 @@ span {
   font-weight: bold;
   padding: 10px 25px;
   border-radius: 30px;
-  transition: transform .0s;
+  transition: transform .0;
 }
 
 #profile-link:hover {
@@ -195,7 +200,7 @@ button {
   font-weight: bold;
   padding: 13px 30px;
   border-radius: 30px;
-  transition: .0s;
+  transition: .0;
 }
 
 button:hover {
@@ -265,7 +270,7 @@ button:hover {
   font-weight: bold;
   padding: 13px 30px;
   border-radius: 30px;
-  transition: .0s;
+  transition: .0;
 }
 
 .contact-me .button-two:hover {
@@ -302,13 +307,6 @@ footer p:nth-child(2) {
 
 .profile-link {
   display: flex;
-}
-
-
-
-.profile-link a:hover {
-  transform: scale(1.3);
-  transition: .0s;
 }
 
 .end {
