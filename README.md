@@ -35,6 +35,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 Zainab Behzad
 - LinkedIn: [Zainab Behzad](https://www.linkedin.com/in/zainab-behzad-3126692b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Email: (zainabbehzad03@gmail.com)
+- Email: zainabbehzad03@gmail.com
 
 Feel free to customize this template to fit your specific project and add any additional information that you think would be helpful for users and contributors.
