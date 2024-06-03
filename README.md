@@ -4,6 +4,8 @@
 
 ## Demo 📸
 ![images](images/Screenshot%20(20).png)
+![Screenshot (20)](https://github.com/zainabbehzad/personal-portfolio-webpage/assets/168668702/873e3e89-0777-4b16-af25-2582feecb91f)
+
 
 
 ## Technologies Used 🛠️
