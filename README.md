@@ -1,41 +1,76 @@
 
-# personal-portfolio-webpage 🚀
-
+<<<<<<< HEAD
 ## Project Description 📝
-Personal Portfolio Webpage is a project built using HTML and CSS to showcase my skills, projects, and experiences. The goal of this webpage is to provide a visually appealing and interactive platform for potential employers or clients to learn more.
 
-# personal-portfolio-webpage
-This is a simple personal-portfolio-webpage built using HTML and CSS. The landing page is designed to showcase a specific product and provide users with information about its features and benefits.
-
-## Features
-
-- Responsive design to ensure compatibility with various devices and screen sizes
-- Clear and visually appealing layout to engage users
-- Use of modern CSS techniques for styling and layout
-- Simple and clean HTML structure for easy maintenance and customization
+> 🌟 👩‍💻A personal portfolio webpage is a website that showcases an individual's skills, experience, and work samples. It serves as a digital resume and a platform to highlight one's professional achievements and capabilities.💻📝🚀
 
 ## Demo 📸
-![Screenshot (20)](https://github.com/zainabbehzad/personal-portfolio-webpage/assets/168668702/6d910d98-7a6e-4425-b008-120d7d4b0cfc)
+![images](images/Screenshot%20(20).png)
 
 
 ## Technologies Used 🛠️
 - HTML
 - CSS
 
-## How to Use
+## Installation 💻
 
-1. Clone the repository: git clone https://github.com/zainabbehzad/personal-portfolio-webpage.git
-2. Open the index.html file in your web browser to view the landing page.
+Installation 💻
+To install and set up this project, simply follow these steps:
 
-## Contributing
+Clone the repository:
 
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
+    git clone https://github.com/zainabbehzad/personal-portfolio-webpage.git
+    
+🎉 Once you've cloned the repository, you're all set to start exploring and using the project! If you encounter any issues or have questions, feel free to reach out for assistance. 🚀
+
+## Usage 🎯
+To use this project, follow these steps:
+
+Installation: If you haven't already, follow the installation instructions mentioned in the Installation section to clone the repository.
+
+Navigate to project directory:
+
+    cd Technical-Documentation-page
+
+Open the HTML file: Open the index.html file in your preferred web browser. You can do this by double-clicking the file or using a command-line tool like open (for macOS) or start (for Windows).
+
+Explore the documentation: Once the HTML file is opened, you'll have access to the technical documentation page. Navigate through different sections using the sidebar navigation or scroll through the content to learn about various topics.
+
+Modify as needed: If you'd like to customize the documentation page or add your own content, feel free to edit the HTML and CSS files in your text editor of choice.
+
+Share and contribute: If you find this project helpful, consider sharing it with others. You can also contribute to the project by submitting bug reports, feature requests, or pull requests to improve it for everyone.
+
 
 ## Author 👩‍💻
 
-Zainab Behzad
-- LinkedIn: [Zainab Behzad](https://www.linkedin.com/in/zainab-behzad-3126692b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Email: [example](zainabbehzad03@gmail.com)
+- LinkedIn: [Zainab Behzad]
+- Email: [zainabbehzad03@gmailcom)
 
-Feel free to customize this template to fit your specific project and add any additional information that you think would be helpful for users and contributors.
+## Contributing 🤝
 
+How to Contribute
+If you'd like to contribute to this project, follow these steps:
+
+1: Fork the repository: Fork the repository to your own GitHub account.
+
+2: Clone the repository: Clone the repository to your local machine.
+
+    git clone https://github.com/zainabbehzad/personal-portfolio-webpage.git
+
+3: Create a new branch: Create a new branch with a descriptive name to work on your contribution.
+
+    git checkout -b feature/new-feature
+
+4: Make your changes: Make your changes to the project in your local environment. Ensure that your changes are in line with the project's coding conventions and style guidelines.
+
+5: Commit your changes: Once you've made your changes, commit them to your branch with clear and descriptive commit messages.
+
+    git commit -m 'Add new feature'
+
+6: Push your changes: Push your changes to your forked repository on GitHub.
+
+    git push origin feature/new-feature
+
+7: Submit a pull request: Go to the original repository on GitHub and submit a pull request with your changes.
+=======
+>>>>>>> 67904d86ff6c833d2570c0169625d40300a0bb08
