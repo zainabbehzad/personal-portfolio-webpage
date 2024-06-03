@@ -1,5 +1,3 @@
-
-<<<<<<< HEAD
 ## Project Description 📝
 
 > 🌟 👩‍💻A personal portfolio webpage is a website that showcases an individual's skills, experience, and work samples. It serves as a digital resume and a platform to highlight one's professional achievements and capabilities.💻📝🚀
@@ -20,7 +18,7 @@ To install and set up this project, simply follow these steps:
 Clone the repository:
 
     git clone https://github.com/zainabbehzad/personal-portfolio-webpage.git
-    
+
 🎉 Once you've cloned the repository, you're all set to start exploring and using the project! If you encounter any issues or have questions, feel free to reach out for assistance. 🚀
 
 ## Usage 🎯
@@ -72,5 +70,4 @@ If you'd like to contribute to this project, follow these steps:
     git push origin feature/new-feature
 
 7: Submit a pull request: Go to the original repository on GitHub and submit a pull request with your changes.
-=======
->>>>>>> 67904d86ff6c833d2570c0169625d40300a0bb08
+
