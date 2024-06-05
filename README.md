@@ -1,9 +1,8 @@
 ## Project Description 📝
 
-> 🌟 👩‍💻A personal portfolio webpage is a website that showcases an individual's skills, experience, and work samples. It serves as a digital resume and a platform to highlight one's professional achievements and capabilities.💻📝🚀
+🌟 👩‍💻A personal portfolio webpage is a website that showcases an individual's skills, experience, and work samples. It serves as a digital resume and a platform to highlight one's professional achievements and capabilities.💻📝🚀
 
 ## Demo 📸
-
 
 ## Technologies Used 🛠️
 - HTML
@@ -27,7 +26,7 @@ Installation: If you haven't already, follow the installation instructions menti
 
 Navigate to project directory:
 
-    cd Technical-Documentation-page
+    cd personal-portfolio-webpage
 
 Open the HTML file: Open the index.html file in your preferred web browser. You can do this by double-clicking the file or using a command-line tool like open (for macOS) or start (for Windows).
 
@@ -40,8 +39,9 @@ Share and contribute: If you find this project helpful, consider sharing it with
 
 ## Author 👩‍💻
 
-- LinkedIn: [Zainab Behzad]
-- Email: [zainabbehzad03@gmailcom)
+- LinkedIn: [Zainab Behzad](https://www.linkedin.com/in/zainab-behzad-3126692b5)
+- Email: [zainabbehzad03@gmail.com)
+- Github: [zainabbehzad](https://github.com/)
 
 ## Contributing 🤝
 
