@@ -214,13 +214,7 @@ button:hover {
   background-color: #080808;
   padding: 4rem 2rem;
 }
-/*
-@media (max-width: 88px) {
-  h2 {
-    font-size: 2rem;
-  }
-}
-*/
+
 .project-img {
   height: calc (100% -6.8rem);
   width: 100%;
@@ -318,7 +312,7 @@ footer p:nth-child(2) {
 
 @media (max-width: 767px) {
   header {
-    padding: 10px;;
+    padding: 10px;
   }
 
   nav li {
@@ -330,7 +324,7 @@ footer p:nth-child(2) {
   }
 }
 
-@media (min-width: 768px) and (max-width:991px) {
+@media (min-width: 768px) and (max-width: 991px) {
   header {
     padding: 15px;
   }
@@ -344,7 +338,7 @@ footer p:nth-child(2) {
   }
 }
 
-@media (min-idth: 992) {
+@media (min-width: 992) {
   header {
     padding: 20px;
   }
