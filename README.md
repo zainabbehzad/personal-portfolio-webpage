@@ -4,7 +4,7 @@
 
 ## Demo 📸
 ![images](images/Screenshot%20(20).png)
-![Screenshot (20)](https://github.com/zainabbehzad/personal-portfolio-webpage/assets/168668702/873e3e89-0777-4b16-af25-2582feecb91f)
+
 
 
 
@@ -30,7 +30,7 @@ Installation: If you haven't already, follow the installation instructions menti
 
 Navigate to project directory:
 
-    cd Technical-Documentation-page
+    cd personal-portfolio-webpage
 
 Open the HTML file: Open the index.html file in your preferred web browser. You can do this by double-clicking the file or using a command-line tool like open (for macOS) or start (for Windows).
 
@@ -43,8 +43,9 @@ Share and contribute: If you find this project helpful, consider sharing it with
 
 ## Author 👩‍💻
 
-- LinkedIn: [Zainab Behzad]
+- LinkedIn: [Zainab Behzad](https://www.linkedin.com/in/zainab-behzad-3126692b5)
 - Email: [zainabbehzad03@gmailcom)
+- Github: [zainabbehzad](https://github.com/)
 
 ## Contributing 🤝
 
