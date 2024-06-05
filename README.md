@@ -3,8 +3,7 @@
 > 🌟 👩‍💻A personal portfolio webpage is a website that showcases an individual's skills, experience, and work samples. It serves as a digital resume and a platform to highlight one's professional achievements and capabilities.💻📝🚀
 
 ## Demo 📸
-![images](images/Screenshot%20(20).png)
-
+![Screenshot (20)](https://github.com/zainabbehzad/personal-portfolio-webpage/assets/168668702/8d7a661a-98d7-44f2-8ede-af27572843d4)
 
 
 
