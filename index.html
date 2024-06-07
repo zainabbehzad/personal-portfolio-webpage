@@ -5,18 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Personal Portfolio Webpage</title>
     <link rel="stylesheet" href="styles.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
   </head>
   <body>
     <div class="hero">
       <nav id="navbar">
-        <h2 class="logo">Portfo<span>lio</span></h2>
+        <h2 class="logo">Portfo<span class="red">lio</span></h2>
         <ul>
-          <li><a  href="#welcome-section">Home</a></li>
-          <li><a  href="#Me">About Me</a></li>
-          <li><a  href="#Project">About Projects</a></li>
-          <li><a  href="#Projects">Projects</a></li>
-          <li><a  href="#Contact" >Contact Us</a></li>
+          <li><a href="#welcome-section">Home</a></li>
+          <li><a href="#Me">About Me</a></li>
+          <li><a href="#skills">Skills</a></li>
+          <li><a href="#Project">About Projects</a></li>
+          <li><a href="#Projects">Projects</a></li>
+          <li><a href="#Contact" >Contact Us</a></li>
         </ul>
         <a rel="noopener" href="https://github.com/account" id="profile-link" target="_blank">Subscribe</a>
       </nav>
@@ -34,48 +35,78 @@
     </div>
     <section class="about">
       <div class="main">
-        <img src="images/b28fec1e-98ae-4934-b470-e556ac45f0df.jpeg"/>
-        <div class="about-text">
-          <h2 id="Me">About Me</h2>
-          <h5>Web <span>Developer</span></h5>
-          <p> I am a front-end web developer. I can provide clean code and pixel perfect design. I also make the website more and more interactive with web animations.A responsive design makes your website accessable to all users, regardless of their device. </p>
-          <button type="button">Lets Talk</button>
+        <div class="about-content">
+          <img src="images/b28fec1e-98ae-4934-b470-e556ac45f0df.jpeg"/>
+          <div class="about-text">
+            <h2 id="Me">About Me</h2>
+            <h5>Web <span class="red">Developer</span></h5>
+            <p> I am a front-end web developer. I can provide clean code and pixel perfect design. I also make the website more and more interactive with web animations.A responsive design makes your website accessable to all users, regardless of their device. </p>
+            <button type="button">Lets Talk</button>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="skills" class="skills">
+      <h2>My <span class="red">Skills</span></h2>
+      <div class="skills-container">
+        <div class="skill-item">
+          <h3>HTML</h3>
+          <p>Proficient</p>
+          <i class="fab fa-html5"></i>
+        </div>
+        <div class="skill-item">
+          <h3>CSS</h3>
+          <p>Proficient</p>
+          <i class="fab fa-css3-alt"></i>
         </div>
       </div>
     </section>
     <hr>
     <section class="about">
       <div class="main">
-        <a href="https://github.com/account">Github</a>
-        <img src="images/Screenshot (19).png"/>
-        <div class="about-text">
-          <h2 id="Project">About Projects</h2>
-          <h5>Linters <span>Config</span></h5>
-          <p> Linters are tools that analyze code for potential errors, bugs, stylistic inconsistencies, and other issues.</p>
-          <button type="button">Lets Have A Look</button>
+        <div class="about-content">
+          <img src="images/Screenshot (19).png" />
+          <div class="about-text">
+            <h2 id="Project">About Projects</h2>
+            <h5>Linters <span class="red">Config</span></h5>
+            <p>Linters are tools that analyze code for potential errors, bugs, stylistic inconsistencies, and other issues.</p>
+            <a href="https://zainabbehzad.github.io/First_project/"><button class="button">Live</button></a>
+            <a href="https://github.com/zainabbehzad"><button type="button">Source</button></a>
+          </div>
         </div>
       </div>
     </section>
     <section id="projects" class="projects">
       <h2 id="Projects">Some of my Projects</h2>
       <div class="project-grid">
-        <a href="https://zainabbehzad.github.io/survey-form/">
-          <img class="project-img" src="./images/Screenshot (15).png" alt="Survey Form" />
-          <p class="project-tile">Survey Form</p>
-        </a>
-        <a href="https://zainabbehzad.github.io/Tribute-page/">
-          <img class="project-img" src="./images//Screenshot (17).png" alt="Tribute Page" />
-          <p class="project-tile">Tribute Page</p>
-        </a>
-        <a href="https://zainabbehzad.github.io/technical-documentation-page/">
-          <img class="project-img" src="./images//Screenshot (18).png" alt="Technical Documentation Page"/>
-          <p class="project-tile">Technical Documentation Page</p>
-        </a>
-        <a href="https://zainabbehzad.github.io/Product-Landing-Page/">
-          <img class="project-img" src="./images//Screenshot (16).png" alt="Product Landing Page"/>
-          <p class="project-tile">Product Landing Page</p>
-        </a>
-      </div>
+        <div class="project-item">
+          <img class="project-img" src="./images/Screenshot (15).png">
+          <div class="buttons">
+            <a href="https://zainabbehzad.github.io/survey-form/"><button class="button">Live</button></a>
+            <a href="https://github.com/zainabbehzad"><button class="button">Source</button></a>
+          </div>
+        </div>
+        <div class="project-item">
+          <img class="project-img" src="./images/Screenshot (17).png">
+          <div class="buttons">
+            <a href="https://zainabbehzad.github.io/Tribute-page/"><button class="button">Live</button></a>
+            <a href="https://github.com/zainabbehzad"><button class="button">Source</button></a>
+          </div>
+        </div>
+        <div class="project-item">
+          <img class="project-img" src="./images/Screenshot (18).png">
+          <div class="buttons">
+            <a href="https://zainabbehzad.github.io/technical-documentation-page/"><button class="button">Live</button></a>
+            <a href="https://github.com/zainabbehzad"><button class="button">Source</button></a>
+          </div>
+        </div>
+        <div class="project-item">
+          <img class="project-img" src="./images/Screenshot (16).png">
+          <div class="buttons">
+            <a href="https://zainabbehzad.github.io/Product-Landing-Page/"><button class="button">Live</button></a>
+            <a href="https://github.com/zainabbehzad"><button class="button">Source</button></a>
+          </div>
+        </div>
       </div>
     </section>
     <div  class="contact-me">
@@ -89,7 +120,7 @@
         <a href="#" target="_blank"><i class="fa-brands fa-facebook"></i></a>
         <a href="https://www.instagram.com/z_behzad_?igsh=a2ZuejVsZGp2a2pt"><i class="fa-brands fa-instagram"></i></a>
         <a href="https://www.linkedin.com/in/zainab-behzad-3126692b5" ><i class="fa-brands fa-linkedin"></i></a>
-        <a href="https://github.com/account"><i class="fa-brands fa-square-github"></i></a>
+        <a href="https://github.com/zainabbehzad"><i class="fa-brands fa-square-github"></i></a>
       </div>
       <p class="end">CopyRight By Zainab Behzad</p>
     </footer>
