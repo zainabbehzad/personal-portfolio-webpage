@@ -207,7 +207,7 @@ button {
   color: white;
   text-decoration: none;
   font-weight: bold;
-  padding: 13px 30px; 
+  padding: 13px 30px;
   border-radius: 30px;
   border: 1px solid #338033;
   transition: 0;
@@ -242,6 +242,7 @@ button:hover {
   grid-template-rows: auto 1fr;
   grid-gap: 1rem;
 }
+
 .project-img {
   width: 100%;
   height: auto;
@@ -404,6 +405,7 @@ footer p:nth-child(2) {
   .newslatter form {
     width: 100%;
   }
+
   .about-content {
     flex-direction: column;
   }
@@ -518,7 +520,7 @@ footer p:nth-child(2) {
   }
 
   .profile-link a {
-      margin-left: 20px;
+    margin-left: 20px;
   }
 
   h1 {
