@@ -440,15 +440,9 @@ footer p:nth-child(2) {
   }
 }
 
-/* Tablets (768px to 1023px) */
 @media (min-width: 768px) and (max-width: 1023px) {
   #navbar {
     padding: 10px 15px;
-    /*
-    padding-top: 35px;
-    padding-left: 3%;
-    padding-right: 3%;
-    */
   }
 
   .logo {
@@ -510,15 +504,9 @@ footer p:nth-child(2) {
   }
 }
 
-/* Desktops (1024px and above) */
 @media (min-width: 1024px) {
   #navbar {
     padding: 20px 4%;
-    /*
-    padding-top: 45px;
-    padding-left: 4%;
-    padding-right: 4%;
-    */
   }
 
   .logo {
@@ -529,9 +517,10 @@ footer p:nth-child(2) {
     padding: 10px 25px;
   }
 
-    .profile-link a {
+  .profile-link a {
       margin-left: 20px;
-    }
+  }
+
   h1 {
     font-size: 75px;
   }
