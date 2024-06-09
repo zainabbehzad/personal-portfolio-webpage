@@ -16,11 +16,13 @@
 #navbar {
   display: flex;
   position: fixed;
+  width: 100%;
   align-items: center;
   justify-content: space-between;
-  padding-top: 45px;
+  padding-top: 15px;
   padding-left: 4%;
   padding-right: 4%;
+  background-color: grey;
 }
 
 .logo {
@@ -416,7 +418,7 @@ footer p:nth-child(2) {
   }
 
   .about-text {
-    width: 90%;
+    width: 100%;
     text-align: center;
   }
 
